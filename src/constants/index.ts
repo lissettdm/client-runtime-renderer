@@ -1,0 +1,10 @@
+export const LIB_NAME = "Runtime renderer";
+export const TAG = "div";
+export const MANIFEST = "manifest.json";
+export const ATTR_URL = "url";
+export const ATTR_PROPS = "props";
+export const COMPONENT_TAG = "stage-component";
+export const LOADING_TAG = "stage-loading";
+export const ERROR_TAG = "stage-error";
+export const NOTIFY_EVENT = "renderer-notification";
+export const MISSING_JS = `${LIB_NAME}: Missing file name`;
